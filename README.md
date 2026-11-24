@@ -2,8 +2,16 @@
 
 
 
+<p align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abeilleee/abeilleee/output/github-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abeilleee/abeilleee/output/github-snake.svg" />
+   <img alt="github-snake" src="https://raw.githubusercontent.com/abeilleee/abeilleee/output/github-snake.svg" />
+ </picture>
+</p>
 
-Я фронтенд разработчик с опытом проектной работы и вот мой стек:
+
+ мой стек:
 
 
 <p align="left"> 
